@@ -303,7 +303,7 @@ wandb==0.10.30
 wcwidth==0.1.7
 webencodings==0.5.1
 werkzeug==1.0.1
-wheel==0.36.2
+wheel==0.38.1
 widgetsnbextension==3.4.2
 wrapt==1.12.1
 wurlitzer==1.0.2
