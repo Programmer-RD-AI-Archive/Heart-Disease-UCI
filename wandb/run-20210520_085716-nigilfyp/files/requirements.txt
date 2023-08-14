@@ -287,7 +287,7 @@ toolz==0.9.0
 torch==1.8.1+cu111
 torchaudio==0.8.1
 torchvision==0.9.1+cu111
-tornado==6.1
+tornado==6.3.3
 tpot==0.11.7
 tqdm==4.60.0
 traitlets==4.3.2
